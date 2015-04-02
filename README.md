@@ -2,6 +2,12 @@
 Articles that need to be bookmarked
 
 
+## learning
+
+https://www.khanacademy.org/about/blog/post/95208400815/the-learning-myth-why-ill-never-tell-my-son-hes
+
+
+
 ## product design
 
 https://medium.com/@joulee/what-designers-can-learn-from-pms-3aa285f511bc
