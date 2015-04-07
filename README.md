@@ -7,6 +7,10 @@ Articles that need to be bookmarked
 https://www.khanacademy.org/about/blog/post/95208400815/the-learning-myth-why-ill-never-tell-my-son-hes
 
 
+## prototyping
+
+http://blog.invisionapp.com/6-ways-to-save-time-in-rapid-prototyping/
+
 
 ## product design
 
