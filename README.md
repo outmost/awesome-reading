@@ -28,3 +28,7 @@ https://medium.com/the-year-of-the-looking-glass/how-to-work-with-pms-3e852d5ecc
 ## resources
 
 http://startupstash.com/
+
+## exercises
+
+http://www.youthedesigner.com/graphic-design-tips/design-exercises-to-get-your-creative-juices-flowing/
