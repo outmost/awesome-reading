@@ -1,5 +1,4 @@
-# awesome-reading
-Articles that need to be bookmarked
+Articles that I'm trying not to lose in all the bookmarks
 
 
 ## learning
