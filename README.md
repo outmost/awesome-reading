@@ -35,6 +35,8 @@ http://startupstash.com/
 
 https://github.com/adamwulf/app-launch-guide - This aims to be an indie dev's definitive guide to building and launching your app, including pre-launch, marketing, building, QA, buzz building, and launch
 
+https://www.airpair.com/node.js/posts/getting-started-with-docker-for-the-nodejs-dev - running node in docker
+
 
 
 ## boilerplates / generators
