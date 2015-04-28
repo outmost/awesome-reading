@@ -33,6 +33,17 @@ http://www.smashingmagazine.com/2015/04/10/thinking-like-an-app-designer/
 
 http://startupstash.com/
 
+https://github.com/adamwulf/app-launch-guide - This aims to be an indie dev's definitive guide to building and launching your app, including pre-launch, marketing, building, QA, buzz building, and launch
+
+
+## boilerplates / generators
+
+https://github.com/Swiip/generator-gulp-angular - Yeoman generator for AngularJS with GulpJS
+
+Starter Web Project Using Grunt, Bourbon, and Neat - https://github.com/lookthinkmake/lookthinkcode
+
+
+
 ## exercises
 
 http://www.youthedesigner.com/graphic-design-tips/design-exercises-to-get-your-creative-juices-flowing/
