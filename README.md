@@ -27,6 +27,8 @@ https://medium.com/the-year-of-the-looking-glass/how-to-work-with-pms-3e852d5ecc
 
 http://www.smashingmagazine.com/2015/04/10/thinking-like-an-app-designer/
 
+UX for product designers - https://medium.com/@paulhershey/user-experience-for-product-designers-e9fa621ce3bc
+
 
 
 ## resources
