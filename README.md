@@ -35,9 +35,11 @@ UX for product designers - https://medium.com/@paulhershey/user-experience-for-p
 
 http://startupstash.com/
 
-https://github.com/adamwulf/app-launch-guide - This aims to be an indie dev's definitive guide to building and launching your app, including pre-launch, marketing, building, QA, buzz building, and launch
+http://makerbook.net/
 
-https://www.airpair.com/node.js/posts/getting-started-with-docker-for-the-nodejs-dev - running node in docker
+This aims to be an indie dev's definitive guide to building and launching your app, including pre-launch, marketing, building, QA, buzz building, and launch - https://github.com/adamwulf/app-launch-guide
+
+Running node in docker - https://www.airpair.com/node.js/posts/getting-started-with-docker-for-the-nodejs-dev
 
 
 
@@ -52,3 +54,10 @@ Starter Web Project Using Grunt, Bourbon, and Neat - https://github.com/lookthin
 ## exercises
 
 http://www.youthedesigner.com/graphic-design-tips/design-exercises-to-get-your-creative-juices-flowing/
+
+
+
+## launching
+
+How to grow a product - https://medium.com/mobile-growth/build-a-growth-machine-like-andy-johns-83c8dcc9b40a 
+Product pricing - http://www.nickkolenda.com/psychological-pricing-strategies/
